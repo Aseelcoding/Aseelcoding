@@ -1,5 +1,5 @@
 #  About Me:
- Currently learning programming with C++.<br><br>📘 Following Mohamed Abu El-Hodhud’s course, and committed to finishing it.<br><br>🛠️ Building small projects (Tic Tac Toe, Students Manager, Number Guessing Game).<br><br>💡 Interested in problem-solving, clean code, and system development.<br><br>📊 Stats show my early journey — improving step by step!
+ Currently learning programming with C++.<br><br> Following Mohamed Abu El-Hodhud’s course, and committed to finishing it.<br><br> Building small projects (Tic Tac Toe, Students Manager, Number Guessing Game).<br><br> Interested in problem-solving, clean code, and system development.<br><br>📊 Stats show my early journey — improving step by step!
 
 
 ##  Socials:
