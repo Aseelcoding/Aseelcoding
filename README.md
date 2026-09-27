@@ -166,7 +166,7 @@ Third Semester · GPA: **3.65**
 <a href="https://github.com/Aseelcoding">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/aseel-abdulbari-944235317/">
+<a href="https://www.linkedin.com/in/aseel-ahmed-523b3043a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/A9eel/">
