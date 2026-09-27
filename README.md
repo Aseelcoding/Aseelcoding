@@ -109,6 +109,24 @@ I’m following the software development roadmap progressively, with Courses **1
 
 ---
 
+### 🧩 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/A9eel/">
+<img src="https://img.shields.io/badge/LeetCode-A9eel-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/A9eel/">
+<img src="https://leetcard.jacoblin.cool/A9eel?theme=dark&font=baloo&ext=heatmap" alt="A9eel's LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
 ### 🎯 Currently Working On
 
 - 📘 Continuing the **ProgrammingAdvices** roadmap and strengthening core programming concepts
@@ -116,6 +134,7 @@ I’m following the software development roadmap progressively, with Courses **1
 - 🗄️ Practicing **SQL Server, ADO.NET, and database design**
 - 🏗️ Building better **3-tier architectures** and cleaner OOP-based applications
 - 🧠 Strengthening **data structures, algorithms, and problem solving**
+- 🧩 Practicing problem solving through **LeetCode**
 - 🌐 Keeping **web development** as a future expansion after strengthening my software foundations
 - 🚀 Improving my GitHub portfolio through real projects and better documentation
 
@@ -141,6 +160,9 @@ Bachelor of Information Technology
 </a>
 <a href="https://github.com/Aseelcoding">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/A9eel/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
