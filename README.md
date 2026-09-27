@@ -2,79 +2,61 @@
 
 <img src="https://github.com/Aseelcoding.png" alt="Aseel Abdulfattah Ahmed Abdulbari" width="140" style="border-radius:50%;"/>
 
-# 👋 Hello! I'm **Aseel Abdulfattah Ahmed Abdulbari**
+# Aseel Abdulfattah Ahmed Abdulbari
 
-**🎓 3rd-Semester Information Technology Student at UMY | 💻 Software Development & Systems Engineering | 🧩 C#/.NET & C++ | 🗄️ SQL Server & 3-Tier Architecture**
+**Information Technology Student at Universitas Muhammadiyah Yogyakarta**  
+**Software Development & Systems Engineering | C#/.NET | C++ | SQL Server**
+
+<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Software+Development;C%23+%2F+.NET;C%2B%2B+%26+Problem+Solving;SQL+Server+%26+Database+Systems;Systems+Engineering">  
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Software+Development;C%23+%2F+.NET;C%2B%2B+%26+Problem+Solving;SQL+Server+%26+Database+Systems;Systems+Engineering" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-### About Me
+## About
 
 I am a Bachelor of Information Technology student at **Universitas Muhammadiyah Yogyakarta (UMY)**, currently in my third semester with a **GPA of 3.65**.
 
-My primary focus is software development and systems engineering, with an emphasis on building a strong understanding of programming fundamentals, application architecture, and database systems through structured learning and practical projects.
+My primary focus is software development and systems engineering. I build practical applications while strengthening my understanding of programming fundamentals, object-oriented design, algorithms, data structures, databases, and application architecture.
 
-I primarily work with **C#, C++, SQL Server, WinForms, ADO.NET, object-oriented programming, algorithms, data structures, and 3-tier architecture**.
+My current technical focus includes **C#, C++, .NET, WinForms, ADO.NET, SQL Server, OOP, algorithms, data structures, and 3-tier architecture**.
 
-- Currently developing desktop and console applications using **C# and C++**
-- Strengthening my knowledge of **object-oriented programming, databases, data structures, algorithms, and system design**
-- Following the **ProgrammingAdvices roadmap by Dr. Mohammed Abu-Hadhoud**
-- Practicing problem solving through **LeetCode**
-- Planning to expand into **web development** after strengthening my software development foundations
-- Focused on understanding core concepts and system design rather than relying solely on ready-made solutions
+I follow the **ProgrammingAdvices roadmap by Dr. Mohammed Abu-Hadhoud** and practice problem solving through **LeetCode**. My approach is centered on understanding the underlying concepts, implementing systems myself, reviewing mistakes, and continuously improving the design.
 
 ---
 
-### 🛠️ Skills & Tools
-
-**Languages**
+## Technical Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,visualstudio,git,github,mysql,windows&perline=8" alt="Technical Skills" />
+
 </div>
 
-**Frameworks & Development**
+### Languages
+C# · C++ · SQL
 
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</div>
+### Development
+.NET · WinForms · ADO.NET · Visual Studio
 
-**Core Concepts**
+### Databases
+SQL Server · Relational Database Design · CRUD · Data Access
 
-<div align="center">
-  <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3--Tier%20Architecture-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-455A64?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Relational%20Databases-00897B?style=for-the-badge" />
-</div>
+### Core Concepts
+Object-Oriented Programming · Algorithms · Data Structures · 3-Tier Architecture · Clean Code · Problem Solving
 
-**Tools**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</div>
+### Tools
+Git · GitHub · SQL Server Management Studio
 
 ---
 
-### 🗺️ Learning Roadmap — ProgrammingAdvices
+## Learning Roadmap
 
-**ProgrammingAdvices — Dr. Mohammed Abu-Hadhoud**
+I am following the ProgrammingAdvices roadmap progressively, covering programming foundations, algorithms, C++, networking foundations, OOP, data structures, C#, SQL, databases, ADO.NET, and application development.
 
-I’m following the software development roadmap progressively, with Courses **1–18** covering programming foundations, algorithms, C++, networking foundations, OOP, data structures, C#, SQL, databases, ADO.NET, and real-world system development.
-
-| Area | Main Topics |
+| Area | Focus |
 |---|---|
 | Programming Foundations | C++, problem solving, algorithms |
 | Software Design | OOP, clean code, data structures |
@@ -82,89 +64,117 @@ I’m following the software development roadmap progressively, with Courses **1
 | C# Development | C#, OOP, Windows Forms |
 | Databases | SQL Server, database design, SQL projects |
 | Application Architecture | ADO.NET, 3-tier architecture, CRUD systems |
-| Project Practice | Building complete desktop and console applications |
+| Problem Solving | LeetCode and algorithmic practice |
 
-> **Learning principle:** understand the fundamentals → build the system → review the mistakes → improve the design.
-
----
-
-### 💻 Featured Projects
-
-- 🎓 **[Student Manager](https://github.com/Aseelcoding/Student_Manager)**  
-  C# WinForms student management system using SQL Server, ADO.NET, CRUD operations, and 3-tier architecture.
-
-- 📇 **[Contacts Management System](https://github.com/Aseelcoding/Contacts-Solution-WinForms-)**  
-  C# WinForms contact management system with SQL Server, ADO.NET, countries, contact information, and profile images.
-
-- 🧮 **[Scientific CLI Engine & Expression Parser](https://github.com/Aseelcoding/Scientific-CLI-Engine-and-Expression-Parser)**  
-  C++ command-line expression parser supporting arithmetic operations, parentheses, precedence, variables, and history.
-
-- 🏦 **[Bank System](https://github.com/Aseelcoding/Bank-System-CPP)**  
-  C++ console banking system using OOP, client management, transactions, transfers, users, permissions, and file persistence.
-
-- 🎮 **[Math Game](https://github.com/Aseelcoding/Math-Game-Project)**  
-  C++ console-based math quiz with difficulty levels, randomized questions, scoring, and replay.
-
-- ✊ **[Rock Paper Scissors](https://github.com/Aseelcoding/Rock-Paper-Scissors-Cpp)**  
-  C++ console game with configurable rounds, random computer choices, scoring, winner detection, and replay.
+> **Principle:** Understand the fundamentals → Build the system → Review the mistakes → Improve the design.
 
 ---
 
-### 🧩 Problem Solving
+## Featured Projects
+
+### Student Manager
+**C# · WinForms · SQL Server · ADO.NET · 3-Tier Architecture**
+
+A student management system focused on CRUD operations, relational database design, and separation of application layers.
+
+[View Repository](https://github.com/Aseelcoding/Student_Manager)
+
+### Contacts Management System
+**C# · WinForms · SQL Server · ADO.NET · 3-Tier Architecture**
+
+A desktop contact management application supporting contact information, countries, profile images, and database operations.
+
+[View Repository](https://github.com/Aseelcoding/Contacts-Solution-WinForms-)
+
+### Scientific CLI Engine & Expression Parser
+**C++ · Algorithms · Expression Parsing**
+
+A command-line expression parser supporting arithmetic operations, parentheses, operator precedence, variables, and history.
+
+[View Repository](https://github.com/Aseelcoding/Scientific-CLI-Engine-and-Expression-Parser)
+
+### Bank System
+**C++ · OOP · File Persistence**
+
+A console banking system covering client management, transactions, transfers, users, permissions, and file persistence.
+
+[View Repository](https://github.com/Aseelcoding/Bank-System-CPP)
+
+---
+
+## Problem Solving
 
 <div align="center">
-
-<a href="https://leetcode.com/u/A9eel/">
-<img src="https://img.shields.io/badge/LeetCode-A9eel-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<br/><br/>
 
 <a href="https://leetcode.com/u/A9eel/">
 <img src="https://leetcard.jacoblin.cool/A9eel?theme=dark&font=baloo&ext=heatmap" alt="A9eel's LeetCode Stats" />
 </a>
 
+<br/>
+
+<a href="https://leetcode.com/u/A9eel/">
+<img src="https://img.shields.io/badge/LeetCode-A9eel-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+</a>
+
 </div>
 
 ---
 
-### 🎯 Currently Working On
+## Currently Working On
 
-- 📘 Continuing the **ProgrammingAdvices** roadmap and strengthening core programming concepts
-- 💻 Improving my **C# / .NET / WinForms** development skills
-- 🗄️ Practicing **SQL Server, ADO.NET, and database design**
-- 🏗️ Building better **3-tier architectures** and cleaner OOP-based applications
-- 🧠 Strengthening **data structures, algorithms, and problem solving**
-- 🧩 Practicing problem solving through **LeetCode**
-- 🌐 Keeping **web development** as a future expansion after strengthening my software foundations
-- 🚀 Improving my GitHub portfolio through real projects and better documentation
+- Strengthening C# and .NET development
+- Building better WinForms applications and 3-tier architectures
+- Improving SQL Server and database design skills
+- Studying data structures and algorithms
+- Practicing problem solving through LeetCode
+- Continuing the ProgrammingAdvices roadmap
+- Building and documenting practical software projects
+- Preparing to expand into web development after strengthening my software foundations
 
 ---
 
-### 📌 Education
+## Education
 
 **Universitas Muhammadiyah Yogyakarta (UMY)**  
 Bachelor of Information Technology  
-**Current:** 3rd Semester · **GPA:** 3.65
+Third Semester · GPA: **3.65**
 
 ---
 
-### 📬 Connect With Me
+## GitHub Overview
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aseel-abdulbari-944235317/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:asilalhashmi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Aseelcoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseelcoding&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseelcoding&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Top Languages" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
 <a href="https://github.com/Aseelcoding">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aseel-abdulbari-944235317/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/A9eel/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+<a href="mailto:asilalhashmi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -172,34 +182,6 @@ Bachelor of Information Technology
 
 <div align="center">
 
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aseelcoding&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Aseel's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseelcoding&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseelcoding&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 A Small Reminder
-
-> **Build it. Break it. Understand it. Improve it.**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aseelcoding&style=for-the-badge&color=1f6feb" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aseelcoding&style=for-the-badge" alt="Profile Views" />
 
 </div>
