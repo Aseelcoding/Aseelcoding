@@ -10,19 +10,20 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-I’m a Bachelor of Information Technology student at **Universitas Muhammadiyah Yogyakarta (UMY)**, currently in my 3rd semester with a **GPA of 3.65**.
+I am a Bachelor of Information Technology student at **Universitas Muhammadiyah Yogyakarta (UMY)**, currently in my third semester with a **GPA of 3.65**.
 
-My main focus is building a strong foundation in **software development and systems engineering** through structured learning and practical projects. I prefer understanding how systems work and building them myself rather than depending on ready-made solutions.
+My primary focus is software development and systems engineering, with an emphasis on building a strong understanding of programming fundamentals, application architecture, and database systems through structured learning and practical projects.
 
-I mainly work with **C#, C++, SQL Server, WinForms, ADO.NET, OOP, algorithms, data structures, and 3-tier architecture**.
+I primarily work with **C#, C++, SQL Server, WinForms, ADO.NET, object-oriented programming, algorithms, data structures, and 3-tier architecture**.
 
-- 🔭 Currently building desktop and console applications using **C# and C++**
-- 🌱 Currently strengthening **OOP, databases, data structures, algorithms, and system design**
-- 🎯 Long-term goal: become a strong **software developer / systems engineer** and later expand into web development
-- 📚 Following the **ProgrammingAdvices roadmap by Dr. Mohammed Abu-Hadhoud**
-- 🧠 Interested in understanding fundamentals before relying heavily on AI tools
+- Currently developing desktop and console applications using **C# and C++**
+- Strengthening my knowledge of **object-oriented programming, databases, data structures, algorithms, and system design**
+- Following the **ProgrammingAdvices roadmap by Dr. Mohammed Abu-Hadhoud**
+- Practicing problem solving through **LeetCode**
+- Planning to expand into **web development** after strengthening my software development foundations
+- Focused on understanding core concepts and system design rather than relying solely on ready-made solutions
 
 ---
 
