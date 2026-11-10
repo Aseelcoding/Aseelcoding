@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Aseel%20Abdulfattah&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Development%20%26%20Systems%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" alt="Aseel Abdulfattah" />
+<img width="100%" src="banner.svg" alt="Aseel Abdulfattah" />
 
 <div align="center">
 
@@ -11,9 +11,18 @@ C# / .NET · C++ · SQL Server · Backend & Systems
 
 </div>
 
+<p align="center">
+  <a href="#about">About</a> &nbsp;|&nbsp;
+  <a href="#at-a-glance">At a Glance</a> &nbsp;|&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;|&nbsp;
+  <a href="#tech-stack">Stack</a> &nbsp;|&nbsp;
+  <a href="#how-i-work">How I Work</a> &nbsp;|&nbsp;
+  <a href="#current-focus">Focus</a>
+</p>
+
 ---
 
-## 👋 About
+## About
 
 I'm a self-taught programmer from Yemen, studying Information Technology at **UMY** (third semester, **GPA 3.65**).
 
@@ -27,13 +36,28 @@ Outside code, I volunteer as an English tutor and mentor students applying for s
 
 ---
 
-## 🚀 Featured Projects
+## At a Glance
+
+```csharp
+public class Aseel : Developer
+{
+    public string University   => "Universitas Muhammadiyah Yogyakarta";
+    public string[] Languages  => new[] { "C#", "C++", "SQL" };
+    public string[] Interests  => new[] { "Backend", "Systems", "Database design" };
+    public string Approach     => "Understand -> Build -> Review -> Improve";
+    public string CurrentWork  => "DVLD";
+}
+```
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 [Loan_Desk](https://github.com/Aseelcoding/Loan_Desk)
+### [Loan_Desk](https://github.com/Aseelcoding/Loan_Desk)
 Equipment loan management system: loans, returns, payments, and compensation for lost equipment. My most carefully layered project, with a focus on exception handling.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -44,7 +68,7 @@ Equipment loan management system: loans, returns, payments, and compensation for
 </td>
 <td width="50%" valign="top">
 
-### 🪪 [DVLD](https://github.com/Aseelcoding/DVLD)
+### [DVLD](https://github.com/Aseelcoding/DVLD)
 Driving license management system with a 3-tier architecture, built across 128 source files over about three months.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -57,7 +81,7 @@ Driving license management system with a 3-tier architecture, built across 128 s
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [UniTrack_UMY](https://github.com/Aseelcoding/UniTrack_UMY)
+### [UniTrack_UMY](https://github.com/Aseelcoding/UniTrack_UMY)
 Desktop app that pulls a UMY student's course data from the university's Moodle-based LMS (MyKlass) into one place.
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -67,7 +91,7 @@ Desktop app that pulls a UMY student's course data from the university's Moodle-
 </td>
 <td width="50%" valign="top">
 
-### 🧮 [Scientific CLI Engine](https://github.com/Aseelcoding/Scientific-CLI-Engine-and-Expression-Parser)
+### [Scientific CLI Engine](https://github.com/Aseelcoding/Scientific-CLI-Engine-and-Expression-Parser)
 Command-line expression parser with operator precedence, parentheses, variables and history.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -77,11 +101,22 @@ Command-line expression parser with operator precedence, parentheses, variables 
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/Aseelcoding?tab=repositories"><b>See all repositories →</b></a></p>
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+- **[Bank System](https://github.com/Aseelcoding/Bank-System-CPP)**: console banking system in C++ with clients, transactions, transfers, users, permissions and file persistence.
+- **[Student Manager](https://github.com/Aseelcoding/Student_Manager)**: student management system in C# with CRUD operations and a 3-tier architecture.
+- **[Contacts Management System](https://github.com/Aseelcoding/Contacts-Solution-WinForms-)**: WinForms contact manager with countries, profile images and SQL Server storage.
+
+</details>
+
+<p align="center"><a href="https://github.com/Aseelcoding?tab=repositories"><b>See all repositories</b></a></p>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -104,17 +139,28 @@ Command-line expression parser with operator precedence, parentheses, variables 
 
 ---
 
-## 🎯 Current Focus
+## How I Work
 
-| Focus | Status |
+| Principle | In practice |
 |---|---|
-| **DVLD**: continued development and improvements | 🔨 In progress |
-| **Systems programming track**: OS concepts and low-level C++ | 📖 Studying |
-| **Problem solving**: LeetCode, mostly C++ | 🔁 Ongoing |
+| **Layered by default** | I separate UI, business logic and data access (UI / BLL / DAL) in DVLD and Loan_Desk, so each part can change without breaking the others. |
+| **Review my own work** | When a project is done I audit it, list what is weak, and fix it before moving on. |
+| **Learn by building** | For each new concept I pick a real project that forces me to use it properly, instead of only reading about it. |
+| **Depth over quantity** | I would rather finish one hard project well than start five easy ones. |
 
 ---
 
-## 🧩 Problem Solving
+## Current Focus
+
+| Focus | Status |
+|---|---|
+| **DVLD**: continued development and improvements | In progress |
+| **Systems programming track**: OS concepts and low-level C++ | Studying |
+| **Problem solving**: LeetCode, mostly C++ | Ongoing |
+
+---
+
+## Problem Solving
 
 <div align="center">
 <a href="https://leetcode.com/u/A9eel/">
@@ -124,14 +170,14 @@ Command-line expression parser with operator precedence, parentheses, variables 
 
 ---
 
-## 🎓 Education & Certificates
+## Education & Certificates
 
 - **Universitas Muhammadiyah Yogyakarta (UMY)**: Bachelor of Information Technology, third semester, GPA 3.65
 - **Cisco Networking Academy**: IT Essentials 8 (2026, 70 hours)
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 <picture>
@@ -153,4 +199,4 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aseel-ahmed-523
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="" />
+<img width="100%" src="footer.svg" alt="" />
